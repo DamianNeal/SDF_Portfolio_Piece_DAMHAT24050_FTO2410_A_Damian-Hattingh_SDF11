@@ -3612,3 +3612,7 @@ video {
     line-height: 2.25rem;
   }
 }
+
+html {
+  scroll-behavior: smooth;
+}
